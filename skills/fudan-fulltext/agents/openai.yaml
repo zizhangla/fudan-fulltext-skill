@@ -1,0 +1,6 @@
+interface:
+  display_name: "复旦论文全文访问"
+  short_description: "通过复旦学校订阅读取论文正文与补充材料，使用本机加密凭据并记录实际读取范围"
+  default_prompt: "使用 $fudan-fulltext 获取这篇论文的合法全文，并读取相关Methods与补充材料。"
+policy:
+  allow_implicit_invocation: true

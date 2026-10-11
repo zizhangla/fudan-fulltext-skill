@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+vendor/
+*.dpapi
+*.dpapi.tmp
+*.pdf
+*.extracted.txt
+*.receipt.json
+*.fetch_receipt.json
+downloads/
+*-profile/
+storage_state*.json
+cookies*.json
+.env
+*.har
+trace*.zip
